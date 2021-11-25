@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- TODO: add links -->
+- [Youtube](https://www.youtube.com/channel/UCtNOW2Nvb_1kurbd7gLWttg)
+<br />
+- [Twitter](https://twitter.com/kakagis)
+<br />
+- [Instagram](https://www.instagram.com/th.kakagis/)
+<br />
+- [Twitch](https://www.twitch.tv/theodorekakagislive)
