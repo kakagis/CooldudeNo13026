@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on making my own website
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js / C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love playing Minecraft
 
-### My Links
+## My Links
 
 - [Youtube](https://www.youtube.com/channel/UCtNOW2Nvb_1kurbd7gLWttg)
 <br />
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - [Instagram](https://www.instagram.com/th.kakagis/)
 <br />
 - [Twitch](https://www.twitch.tv/theodorekakagislive)
+
+## About Me
+Hi, I'm CooldudeNo13026 or Theodore.
