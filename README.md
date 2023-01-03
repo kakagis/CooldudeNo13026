@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making my own website
+- 🔭 I’m currently working on home automation with arduino and raspberry pi
 - 🌱 I’m currently learning c and c++
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
